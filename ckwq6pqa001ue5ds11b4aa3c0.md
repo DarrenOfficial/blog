@@ -58,7 +58,7 @@ There are 2 jars provided below, one is the original one from [freyacodes](https
 
 - [Custom Jar application.yml](https://cdn.darrennathanael.com/jars/application.yml)
 
-*Both is different*
+> *Both are different*
 
 Once you’ve downloaded the jar and application.yml file, you can simply edit the application.yml port and password to your preferences.
 
