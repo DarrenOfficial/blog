@@ -21,6 +21,9 @@ You can download & setup java by going to here:
 - [MacOS](https://www.azul.com/downloads/?os=macos&package=jdk)
 - [Windows](https://www.azul.com/downloads/?os=windows&package=jdk)
 
+If you want to host lavalink on replit. you can just click this button
+[![Run on Repl.it](https://repl.it/badge/github/DarrenOfficial/lavalink-replit)](https://repl.it/github/DarrenOfficial/lavalink-replit)
+
 Once install you can verify it by doing `java -version`, the output should look something like this
 
 ```bash
